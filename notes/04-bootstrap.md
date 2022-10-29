@@ -23,7 +23,7 @@
 <!-- grid breakpoints https://getbootstrap.com/docs/5.2/layout/grid/#grid-options -->
 <!---TODO -  after lunch ask mick or TA about order -->
 
-https://getbootstrap.com/docs/5.2/getting-started/introduction/ if you need anything else search here or ask a TA/mick
+https://getbootstrap.com/docs/5.2/getting-started/introduction/  or https://www.w3schools.com/css/default.asp if you need anything else search here or ask a TA/mick
 
 <!-- quick way to terminal  ctrl~  -->
 <!-- can keep a nav bar or parent element at the top of the program by putting sticky-top as a class -->
